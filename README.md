@@ -32,16 +32,16 @@ This Library uses reactjs for user interface & state management functionality an
 
 ## How to run the app
 - git clone `https://github.com/AnuMonachan/testapp.git`
-- yarn install
+- `yarn install`
 
 ### Note on Package Manager
 - we are using yarn
 
 ### Run in Development Mode
-- run using yarn run dev 
+- run using `yarn run dev` 
 
 ### Run in Styleguide
-- use command yarn start to open styleguidist
+- use command `yarn start` to open styleguidist
 
 
 ### How to install library
